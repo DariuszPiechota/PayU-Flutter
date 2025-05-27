@@ -13,12 +13,12 @@ dependencies:
   get_it: ^8.0.3
   payu_interface:
     git:
-      url: https://github.com/PayU-EMEA/PayU-Flutter.git
+      url: https://github.com/DariuszPiechota/PayU-Flutter.git
       path: payu_interface
       ref: 1.0.4
   payu_ui:
     git:
-      url: https://github.com/PayU-EMEA/PayU-Flutter.git
+      url: https://github.com/DariuszPiechota/PayU-Flutter.git
       path: payu_ui
       ref: 1.0.4
   provider: ^6.1.5
