@@ -2,4 +2,4 @@ payu:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter.git
     path: payu
-    ref: 1.0.4
+     
